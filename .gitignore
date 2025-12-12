@@ -93,4 +93,5 @@ target/
 
 myenv/
 cred.txt
+Dockerfile
 
